@@ -4,7 +4,7 @@ Faylni o'chirish uchun siz OS modulini import qilishingiz va uning os.remove()fu
 
 MisolO'zingizning Python serveringizni oling
 "demofile.txt" faylini olib tashlang:
-
+1
 import os
 os.remove("demofile.txt")
 Fayl mavjudligini tekshiring:
