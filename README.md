@@ -12,7 +12,7 @@ Xatolikka yo'l qo'ymaslik uchun faylni o'chirishdan oldin uning mavjudligini tek
 
 Misol
 Fayl mavjudligini tekshiring, keyin uni o'chiring:
-1
+
 import os
 if os.path.exists("demofile.txt"):
   os.remove("demofile.txt")
