@@ -1,7 +1,7 @@
 # python_1
 Faylni o'chirish
 Faylni o'chirish uchun siz OS modulini import qilishingiz va uning os.remove()funksiyasini bajarishingiz kerak:
-1
+
 MisolO'zingizning Python serveringizni oling
 "demofile.txt" faylini olib tashlang:
 
